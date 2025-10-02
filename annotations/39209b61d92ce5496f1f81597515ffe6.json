@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "tag-example",
+      "@type" : "oa:Tag",
+      "chars" : "tag-example"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mr. John",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mr. John</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/26412677",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-10-02T15:44:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759419861480",
+    "dcterms:modified" : "2025-10-02T15:44:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1083,244,1210,1565"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1083.10638,243.95745h605.04255v0h605.04255v782.2766v782.2766h-605.04255h-605.04255v-782.2766z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d8a819d5-d3bf-42eb-98b4-bcae34c3aae3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://damsssl.llgc.org.uk/iiif/2.0/4389767/canvas/4389774.json"
+    } ]
+  } ],
+  "@id" : "https://zixben.github.io/iiif-workbench-project/annotations/39209b61d92ce5496f1f81597515ffe6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
