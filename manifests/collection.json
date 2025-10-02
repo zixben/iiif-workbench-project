@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://zixben.github.io/iiif-workbench-project/manifests/manifest(Eddie-Local-cantaloupe).json",
     "label" : "Eddie the dog"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://zixben.github.io/iiif-workbench-project/manifests/manifest(Eddie).json",
+    "label" : "Eddie the dog"
   } ]
 }
