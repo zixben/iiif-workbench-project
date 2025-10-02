@@ -1,0 +1,13 @@
+{
+  "id" : "https://zixben.github.io/iiif-workbench-project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in zixben/iiif-workbench-project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://zixben.github.io/iiif-workbench-project/manifests/manifest(Eddie-Local-cantaloupe).json",
+    "label" : "Eddie the dog"
+  } ]
+}
