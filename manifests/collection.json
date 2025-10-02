@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://zixben.github.io/iiif-workbench-project/manifests/manifest.json",
     "label" : "Eddie the dog"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://zixben.github.io/iiif-workbench-project/manifests/manifestEddie.json",
+    "label" : "Eddie the dog"
   } ]
 }
