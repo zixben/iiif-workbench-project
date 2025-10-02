@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://zixben.github.io/iiif-workbench-project/annotations/1639fef89dbfefdda9c40722925a41af.json" ],
+  "otherContent" : [ "https://zixben.github.io/iiif-workbench-project/annotations/1639fef89dbfefdda9c40722925a41af.json", "https://zixben.github.io/iiif-workbench-project/annotations/39209b61d92ce5496f1f81597515ffe6.json" ],
   "@id" : "https://zixben.github.io/iiif-workbench-project/annotations/collection.json",
   "label" : "All annotations loaded in zixben/iiif-workbench-project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
