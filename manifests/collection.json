@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://zixben.github.io/iiif-workbench-project/manifests/f843dcfb15384bccf232e50989d31918.json",
     "label" : "Cardiganshire Constabulary register of criminals"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://zixben.github.io/iiif-workbench-project/manifests/manifestMonokerosInternetArchive.json",
+    "label" : "monokeros"
   } ]
 }
