@@ -3,6 +3,11 @@
   "@id" : "https://zixben.github.io/iiif-workbench-project/manifests/manifestMonokerosInternetArchive.json",
   "@type" : "sc:Manifest",
   "label" : "monokeros",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/26412677/dd76ac505c9aff7e08a4f60dfcd2c65e/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",
@@ -46,6 +51,11 @@
           "width" : 1053
         },
         "on" : "http://c272fa03-9a98-4d7d-9ebd-915192e6f5c9"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://zixben.github.io/iiif-workbench-project/annotations/1639fef89dbfefdda9c40722925a41af.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
