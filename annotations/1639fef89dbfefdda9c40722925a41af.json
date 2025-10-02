@@ -1,0 +1,51 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "monokeros",
+      "@type" : "oa:Tag",
+      "chars" : "monokeros"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "μονόκερως",
+      "@type" : "oa:Tag",
+      "chars" : "μονόκερως"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "μονόκερος",
+      "@type" : "oa:Tag",
+      "chars" : "μονόκερος"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "monokeros<a title=\"Monokeros\" href=\"https://archive.org/details/monokeros\" target=\"_blank\" rel=\"noopener\">Monokeros Internet Archive",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>monokeros<br /><a title=\"Monokeros\" href=\"https://archive.org/details/monokeros\" target=\"_blank\" rel=\"noopener\">Monokeros Internet Archive</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/26412677",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-10-02T17:04:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1759424672019",
+    "dcterms:modified" : "2025-10-02T17:04:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://zixben.github.io/iiif-workbench-project/manifests/manifestMonokerosInternetArchive.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=137,140,532,480"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M136.64539,140.21336h266.03398v0h266.03398v240.17701v240.17701h-266.03398h-266.03398v-240.17701z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8a1560f0-d2f0-4688-84c7-3a7c1301c103\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c272fa03-9a98-4d7d-9ebd-915192e6f5c9"
+    } ]
+  } ],
+  "@id" : "https://zixben.github.io/iiif-workbench-project/annotations/1639fef89dbfefdda9c40722925a41af.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
